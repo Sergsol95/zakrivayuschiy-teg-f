@@ -1,23 +1,17 @@
-
-:root {
+:root
+{
   --border-default: 2px solid #000;
   --shadow-btn: 2px 2px 0 0 #000;
-
   --size-title: 18px;
   --size-text: 18px;
-
   --weight-title: 700;
   --weight-text: 400;
-
   --layout-width: clamp(23.4375rem, 16.2852rem + 30.5164vw, 43.75rem);
   --line-height-text: 1.15;
-
   --font-primary: inter-variable, arial, sans-serif;
   --font-secondary: pressstart2p, 'Courier New', sans-serif;
-
   --color-primary: #000;
   --color-btn: #fff;
-  
   --heart-color-outline: #000;
   --heart-color-body: transparent;
   --heart-color-inner: transparent;
