@@ -52,7 +52,7 @@
 {
   gap: 8px;
   margin: 50px auto 0;
-  padding: 17px 10px;
+  padding: 4px 11px;
   inline-size: clamp(19.125rem, 18.4868rem + 2.723vw, 20.9375rem);
 }
 .card__like-button
@@ -63,8 +63,8 @@
 {
     position: relative;
     z-index: 1;
+    width: 21px;
     min-width: 21px;
-    min-height: 21px;
     mix-blend-mode: difference;
 }
 .card__icon-button
